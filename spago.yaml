@@ -1,0 +1,14 @@
+package:
+  dependencies:
+    - console
+    - effect
+    - prelude
+    - spec
+  name: spec-nested-describe-bug
+  test:
+    dependencies: []
+    main: Test.Main
+workspace:
+  extra_packages: {}
+  package_set:
+    registry: 40.2.0
